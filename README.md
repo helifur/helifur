@@ -1,5 +1,5 @@
 ## The universe is huge, and this property of it is extremely nerve-wracking, as a result of which most people, keeping their peace of mind, prefer not to remember about its scale.
-[![Header](https://github.com/hatedestiny6/hatedestiny6/blob/main/ekljgwe.gif)]
+[![Header](https://github.com/hatedestiny6/hatedestiny6/blob/main/ekljgwe.gif)
 
 # About me
 
