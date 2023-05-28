@@ -3,7 +3,17 @@
 
 # About me
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatedestiny6&show_icons=true&theme=tokyonight)
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 20px;">
+  <a href="#">
+    <img src="http://github-readme-stats.vercel.app/api?username=hatedestiny6&show_icons=true&theme=radical" alt="Stats">
+  </a>
+  <a href="#">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hatedestiny6&theme=radical" alt="Top Languages">
+  </a>
+</div>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hatedestiny6&theme=radical)
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
