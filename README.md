@@ -16,6 +16,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helifur&theme=radical)
 
 ### Languages and Tools:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,9 +27,11 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23092E20.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
@@ -39,7 +42,7 @@
 ![Zsh](https://img.shields.io/badge/-Zsh-000000?logo=gnu-bash&logoColor=white&style=for-the-badge)
 
 ### My OC
-![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
+![LFS](https://img.shields.io/badge/Linux%20From%20Scratch-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### My WM
-![i3wm](https://img.shields.io/badge/i3-52C0FF?logo=i3&logoColor=fff&style=for-the-badge)
+![Hyprland](https://img.shields.io/static/v1?style=for-the-badge&message=Hyprland&color=222222&logo=Hyprland&logoColor=58E1FF&label=)
