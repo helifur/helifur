@@ -1,5 +1,4 @@
-![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
-![ViewCount](http://bit.ly/Thomas-Github-Visits)
+![Views Counter](https://views-counter.vercel.app/badge?pageId=helifur&leftColor=000000&rightColor=0adb3f&type=total&label=Visitors&style=none)
 
 ### Hi there 👋 I'm Arseny,
 
